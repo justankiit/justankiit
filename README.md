@@ -32,7 +32,7 @@ I'm **Ankit Kumar**, a 20-year-old developer advocate from India with expertise 
 - **LinkedIn**: [@ankitstwt](https://www.linkedin.com/in/ankitstwt/)  
 - **Twitter**: [@ankiit111](https://x.com/ankiit111)  
 - **Hashnode**: [@Ankiit1](https://kumarankit1.hashnode.dev/)  
-- **Email**: [justankiit@gmail.com](mailto:ankit6170kumar@gmail.com)  
+- **Email**: [justankiit@gmail.com](mailto:justankiit@gmail.com)  
 
 ---
 
