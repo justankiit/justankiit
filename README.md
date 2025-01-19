@@ -8,7 +8,7 @@
 ---
 
 ## 👋 About Me
-I'm **Ankit Kumar**, a 20-year-old Cloud Advocate and Developer Experience Engineer from India. I thrive on blending technical expertise with community engagement to innovate, educate, and advocate for the power of cloud-native technologies.
+I'm **Ankit Kumar**, a 20-year-old developer advocate from India with expertise in developer experience. I thrive on blending technical expertise with community engagement to innovate, educate, and advocate for the power of cloud-native technologies.
 
 ---
 
@@ -31,21 +31,9 @@ I'm **Ankit Kumar**, a 20-year-old Cloud Advocate and Developer Experience Engin
 ## 🌐 Connect with Me
 - **LinkedIn**: [@ankitstwt](https://www.linkedin.com/in/ankitstwt/)  
 - **Twitter**: [@ankiit111](https://x.com/ankiit111)  
-- **Hashnode**: [@Ankiit1](https://hashnode.com/@Ankiit1)  
+- **Hashnode**: [@Ankiit1](https://kumarankit1.hashnode.dev/)  
 - **Email**: [ankit6170kumar@gmail.com](mailto:ankit6170kumar@gmail.com)  
 
 ---
-
-## 📈 Stats & Achievements
-- 🔥 AWS Certified Cloud Practitioner.  
-- 🎓 Hosted sessions on **Git & GitHub** and **CNCF Landscape**.  
-- 🌟 Given multiple talks on Kubernetes, CNCF SIGs, and community engagement.  
-- 🏆 Contributor to CNCF and open-source projects globally.  
-
----
-
-## 🌟 Services I Offer
-- Growth Marketing | IT Consulting | Cloud App Development  
-- Web Development | Product Marketing | Technical Writing  
 
 Feel free to reach out for collaborations or freelance projects!  
